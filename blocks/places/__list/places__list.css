@@ -1,0 +1,22 @@
+.places__list {
+    margin: 88px 0 90px;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    justify-content: center;
+    width: 100%;
+    row-gap: 80px;
+}
+
+@media (max-width: 930px) {
+    .places__list {
+        row-gap: 70px;
+    }
+}
+
+@media (max-width: 720px) {
+    .places__list {
+        margin: 88px 0 65px;
+        row-gap: 50px;
+    }
+}

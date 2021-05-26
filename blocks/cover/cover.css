@@ -1,0 +1,30 @@
+.cover {
+    margin: 0 auto;
+    padding: 0;
+    max-width: 1184px;
+    width: 100%;
+    min-height: 740px;
+    background-image: url("../../images/cover-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+}
+
+@media (max-width: 1184px) {
+    .cover {
+        min-height: 63vw;
+    }
+}
+
+@media (max-width: 1024px) {
+    .cover {
+        width: 1024px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .cover {
+        width: 100%;
+    }
+}

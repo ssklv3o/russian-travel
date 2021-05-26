@@ -2,31 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29f6e3c2-7752-4fe8-9608-5a22707f970c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/language-menu/__item/language-menu__item.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/language-menu/__link/_active/language-menu__link_active.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/language-menu/__link/language-menu__link.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/language-menu/language-menu.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/lead/__image-caption/lead__image-caption.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/lead/lead.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/logo/logo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lead__image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/fonts/Inter-Black.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/fonts/Inter-Black.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/fonts/Inter-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/fonts/Inter-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/fonts/Inter-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/fonts/Inter-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/fonts/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendors/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__effect/cover__effect.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__text-wrapper/cover__text-wrapper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__text/cover__text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/gallery/__image/gallery__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/gallery/__list/gallery__list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/gallery/gallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__list-item/intro__list-item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__span-text/intro__span-text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__image/place__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__link-text/place__link-text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__link-wrapper/place__link-wrapper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__link/place__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__text-wrapper/place__text-wrapper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__text/place__text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__title/place__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/place.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/__list/places__list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/altay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/baykal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cover-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-beach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-car.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-fog-and-mountain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-fog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-mountain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-mountains.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-ocean.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-road.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-sky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-train.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery-trees.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery_wolf.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kareliya.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/kolskiy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/park-kosa.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__image-caption/lead__image-caption.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__image-caption/lead__image-caption.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/lead.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/lead.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +103,8 @@
       <option name="presentableId" value="Default" />
       <updated>1621505486314</updated>
       <workItem from="1621505487446" duration="95000" />
-      <workItem from="1621885717023" duration="7231000" />
+      <workItem from="1621885717023" duration="7885000" />
+      <workItem from="1621966458704" duration="18476000" />
     </task>
     <servers />
   </component>

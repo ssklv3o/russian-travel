@@ -8,16 +8,26 @@
     line-height: 14px;
     font-weight: 400;
     letter-spacing: 0.15em;
+    box-sizing: border-box;
+    max-width: 320px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1279px) {
     .lead__image-caption {
+        width: 928px;
+    }
+}
+
+@media (max-width: 928px) {
+    .lead__image-caption {
+        width: calc(100% - 26px);
         margin: 10px 0 0 24px;
     }
 }
 
 @media (max-width: 420px) {
     .lead__image-caption {
+        width: calc(100% - 18px);
         margin: 10px 0 0 16px;
     }
 }
