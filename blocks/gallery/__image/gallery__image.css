@@ -1,28 +1,27 @@
 .gallery__image {
-    width: 284px;
-    height: 213px;
     margin: 0;
     padding: 0;
+    width: 284px;
+    height: 213px;
 }
 
-@media (max-width: 1184px) {
+@media (max-width: 1186px) {
     .gallery__image {
         width: 300px;
         height: 225px;
     }
 }
 
-@media (max-width: 928px) {
+@media (max-width: 930px) {
     .gallery__image {
         width: 352px;
         height: 264px;
     }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 730px) {
     .gallery__image {
         width: 288px;
         height: 216px;
-        margin:  0 0 12px;
     }
 }

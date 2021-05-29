@@ -1,29 +1,18 @@
 .place__text {
-    margin: 0 0 26px;
+    margin: 0;
     padding: 0;
-    max-width: 484px;
-    width: 100%;
-    color: #ffffff;
     font-size: 18px;
     line-height: 163%;
     font-weight: 400;
+    color: #ffffff;
 }
 
-@media (max-width: 1024px) {
-    .place__text {
-        max-width: 456px;
-    }
+.place__text:nth-child(1) {
+    margin: 0 0 26px;
 }
 
 @media (max-width: 930px) {
     .place__text {
-        max-width: 352px;
         font-size: 16px;
-    }
-}
-
-@media (max-width: 720px) {
-    .place__text {
-        max-width: 288px;
     }
 }

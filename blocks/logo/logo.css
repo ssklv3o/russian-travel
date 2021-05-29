@@ -5,8 +5,8 @@
     height: 52px;
 }
 
-@media (max-width: 420px) {
-    .logo {
+@media (max-width: 520px) {
+    .logo{
         width: 142px;
         height: 42px;
     }

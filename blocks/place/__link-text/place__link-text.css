@@ -2,8 +2,8 @@
     margin: 0;
     padding: 0;
     font-size: 12px;
-    line-height: 170%;
+    line-height: 12px;
     font-weight: 400;
-    letter-spacing: 0.2em;
     color: #aaaaaa;
+    letter-spacing: 0.2em;
 }

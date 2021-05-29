@@ -1,12 +1,17 @@
 .footer__list {
-    margin: 0;
+    margin: 90px 0 24px;
     padding: 0;
     list-style: none;
     display: flex;
+    width: 465px;
+    justify-content: space-between;
 }
 
-@media (max-width: 510px) {
+@media (max-width: 650px) {
     .footer__list {
+        margin: 64px 0 24px;
         flex-direction: column;
+        width: 288px;
+        align-items: flex-start;
     }
 }

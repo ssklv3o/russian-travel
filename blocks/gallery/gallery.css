@@ -1,6 +1,26 @@
 .gallery {
-    margin: 0;
     padding: 0;
+    width: 100%;
+    max-width: 1184px;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media (max-width: 1186px) {
+    .gallery {
+        max-width: 928px;
+    }
+}
+
+@media (max-width: 930px) {
+    .gallery {
+        max-width: 720px;
+    }
+}
+
+@media (max-width: 730px) {
+    .gallery {
+        max-width: 288px;
+    }
 }

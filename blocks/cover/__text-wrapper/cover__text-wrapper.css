@@ -1,13 +1,7 @@
 .cover__text-wrapper {
-    width: 560px;
-    text-align: center;
+    margin: auto;
+    padding: 0;
     display: flex;
     flex-direction: column;
-    align-items: center;
-}
-
-@media (max-width: 560px) {
-    .cover__text-wrapper {
-        width: 288px;
-    }
+    justify-content: center;
 }

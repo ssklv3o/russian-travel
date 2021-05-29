@@ -1,9 +1,11 @@
 .place__image {
+    margin: 0;
+    padding: 0;
     width: 460px;
     height: 460px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1026px) {
     .place__image {
         width: 440px;
         height: 440px;
@@ -17,10 +19,9 @@
     }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 730px) {
     .place__image {
         width: 320px;
         height: 320px;
-        margin: 0 0 30px;
     }
 }

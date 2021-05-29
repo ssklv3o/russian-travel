@@ -1,28 +1,14 @@
 .place__link-wrapper {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    max-width: 484px;
-    margin: 0 0 48px;
-    align-self: flex-end;
+    margin: 0;
+    padding: 0;
+    align-self: end;
+    display: grid;
+    gap: 12px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 320px) {
     .place__link-wrapper {
-        max-width: 456px;
-    }
-}
-
-@media (max-width: 930px) {
-    .place__link-wrapper {
-        max-width: 352px;
-    }
-}
-
-@media (max-width: 720px) {
-    .place__link-wrapper {
-        max-width: 288px;
-        margin: 0 auto 30px;
-        align-self: flex-start;
+        width: 288px;
+        margin: 0 auto;
     }
 }

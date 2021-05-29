@@ -2,21 +2,24 @@
 
 @import url('../vendors/fonts/fonts.css');
 
+@import url('../blocks/link/link.css');
+
 @import url('../blocks/page/page.css');
+@import url('../blocks/page/__section/page__section.css');
 
 @import url('../blocks/logo/logo.css');
-
-@import url('../blocks/header/header.css');
 
 @import url('../blocks/language-menu/language-menu.css');
 @import url('../blocks/language-menu/__item/language-menu__item.css');
 @import url('../blocks/language-menu/__link/language-menu__link.css');
 @import url('../blocks/language-menu/__link/_active/language-menu__link_active.css');
 
+@import url('../blocks/header/header.css');
+
 @import url('../blocks/lead/lead.css');
 @import url('../blocks/lead/__title/lead__title.css');
-@import url('../blocks/lead/__image/lead__image.css');
 @import url('../blocks/lead/__subtitle/lead__subtitle.css');
+@import url('../blocks/lead/__image/lead__image.css');
 @import url('../blocks/lead/__image-caption/lead__image-caption.css');
 
 @import url('../blocks/intro/intro.css');
@@ -27,6 +30,7 @@
 @import url('../blocks/intro/__span-text/intro__span-text.css');
 
 @import url('../blocks/gallery/gallery.css');
+@import url('../blocks/gallery/__list-item/gallery__list-item.css');
 @import url('../blocks/gallery/__list/gallery__list.css');
 @import url('../blocks/gallery/__image/gallery__image.css');
 
@@ -34,12 +38,11 @@
 @import url('../blocks/places/__list/places__list.css');
 
 @import url('../blocks/place/place.css');
+@import url('../blocks/place/__image/place__image.css');
 @import url('../blocks/place/__title/place__title.css');
+@import url('../blocks/place/__text/place__text.css');
 @import url('../blocks/place/__link-text/place__link-text.css');
 @import url('../blocks/place/__link/place__link.css');
-@import url('../blocks/place/__link-text/place__link-text.css');
-@import url('../blocks/place/__text/place__text.css');
-@import url('../blocks/place/__image/place__image.css');
 @import url('../blocks/place/__link-wrapper/place__link-wrapper.css');
 @import url('../blocks/place/__text-wrapper/place__text-wrapper.css');
 
@@ -51,5 +54,6 @@
 
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__list/footer__list.css');
+@import url('../blocks/footer/__list-item/footer__list-item.css');
 @import url('../blocks/footer/__link/footer__link.css');
 @import url('../blocks/footer/__copyright/footer__copyright.css');
