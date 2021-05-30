@@ -5,7 +5,7 @@
     height: 615px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1279px) {
     .lead__image {
         margin: 56px 0 0;
         width: 928px;
@@ -13,7 +13,7 @@
     }
 }
 
-@media (max-width: 950px) {
+@media (max-width: 1023px) {
     .lead__image {
         width: 768px;
         height: 480px;
@@ -21,13 +21,6 @@
 }
 
 @media (max-width: 767px) {
-    .lead__image {
-        width: calc(100% - 2px);
-        height: auto;
-    }
-}
-
-@media (max-width: 320px) {
     .lead__image {
         margin: 40px 0 0;
         width: 320px;

@@ -7,14 +7,14 @@
     gap: 80px;
 }
 
-@media (max-width: 930px) {
+@media (max-width: 1023px) {
     .places__list {
-        margin: 88px 0 0;
+        margin: 88px 0 90px;
         gap: 73px;
     }
 }
 
-@media (max-width: 530px) {
+@media (max-width: 767px) {
     .places__list {
         margin: 64px 0 66px;
         gap: 50px;

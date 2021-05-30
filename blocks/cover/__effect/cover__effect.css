@@ -14,23 +14,23 @@
     background-color: rgba(0, 0, 0, 0.8);
 }
 
-@media (max-width: 1186px) {
+@media (max-width: 1279px) {
     .cover__effect {
-        max-width: 1024px;
+        width: 1024px;
         min-height: 640px;
     }
 }
 
 @media (max-width: 1023px) {
     .cover__effect {
-        max-width: 768px;
+        width: 768px;
         min-height: 480px;
     }
 }
 
 @media (max-width: 767px) {
     .cover__effect {
-        max-width: 320px;
+        width: 320px;
         min-height: 200px;
     }
 }
