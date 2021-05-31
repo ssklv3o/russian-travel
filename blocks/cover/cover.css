@@ -1,6 +1,7 @@
 .cover {
     padding: 0;
-    width: 1184px;
+    max-width: 1184px;
+    width: 100%;
     display: flex;
     justify-content: center;
     min-height: 740px;
@@ -12,21 +13,21 @@
 
 @media (max-width: 1279px) {
     .cover {
-        width: 1024px;
+        max-width: 1024px;
         min-height: 640px;
     }
 }
 
 @media (max-width: 1023px) {
     .cover {
-        width: 768px;
+        max-width: 768px;
         min-height: 480px;
     }
 }
 
 @media (max-width: 767px) {
     .cover {
-        width: 320px;
+        max-width: 320px;
         min-height: 200px;
     }
 }
