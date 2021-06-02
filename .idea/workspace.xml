@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29f6e3c2-7752-4fe8-9608-5a22707f970c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blocks/footer/__nav/footer__nav.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__effect/cover__effect.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__effect/cover__effect.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__text/cover__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__text/cover__text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/footer/__list/footer__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__list/footer__list.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/__image-caption/lead__image-caption.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__image-caption/lead__image-caption.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/page/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/place/__link-text/place__link-text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__link-text/place__link-text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/place/__text-wrapper/place__text-wrapper.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__text-wrapper/place__text-wrapper.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/place/__text/place__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__text/place__text.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blocks/place/__title/place__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__title/place__title.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +72,8 @@
       <workItem from="1622384582101" duration="4963000" />
       <workItem from="1622456722340" duration="2893000" />
       <workItem from="1622463068763" duration="177000" />
-      <workItem from="1622577815805" duration="2150000" />
+      <workItem from="1622577815805" duration="2558000" />
+      <workItem from="1622648237395" duration="288000" />
     </task>
     <servers />
   </component>
