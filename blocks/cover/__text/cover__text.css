@@ -2,18 +2,19 @@
     margin: 32px 0 0;
     padding: 0;
     text-align: center;
-    width: 360px;
+    max-width: 360px;
     align-self: center;
     color: #ffffff;
     font-size: 18px;
     line-height: 22px;
     font-weight: 400;
+    width: 100%;
 }
 
 @media (max-width: 767px) {
     .cover__text {
         margin: 16px 0 0;
-        width: 288px;
+        max-width: 288px;
         font-size: 14px;
         line-height: 16px;
     }

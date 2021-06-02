@@ -5,9 +5,10 @@
     flex-direction: column;
 }
 
-@media (max-width: 320px) {
+@media (max-width: 767px) {
     .place__text-wrapper {
-        width: 288px;
+        max-width: 288px;
+        width: 100%;
         margin: 0 auto;
     }
 }
